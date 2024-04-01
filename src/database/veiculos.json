@@ -1,0 +1,87 @@
+{
+"veiculos": [
+	{
+		"id" : 1,
+		"proprietario_id" : 1,
+		"marca" : "Toyota",
+		"modelo" : "Corolla Cross XRX 1.8 16V Aut. (Híbrido)",
+		"ano" : 2018
+	},
+	{
+		"id" : 2,
+		"proprietario_id" : 1,
+		"marca" : "Honda",
+		"modelo" : "Civic",
+		"ano" : 2019
+	},
+	{
+		"id" : 3,
+		"proprietario_id" : 2,
+		"marca" : "Ford",
+		"modelo" : "Focus",
+		"ano" : 2020
+	},
+	{
+		"id" : 4,
+		"proprietario_id" : 2,
+		"marca" : "Honda",
+		"modelo" : "City",
+		"ano" : 2020
+	},
+	{
+		"id" : 5,
+		"proprietario_id" : 3,
+		"marca" : "Ford",
+		"modelo" : "Ka",
+		"ano" : 2017
+	},
+	{
+		"id" : 6,
+		"proprietario_id" : 3,
+		"marca" : "Chevrolet",
+		"modelo" : "Celta",
+		"ano" : 2014
+	},
+	{
+		"id" : 7,
+		"proprietario_id" : 2,
+		"marca" : "Ford",
+		"modelo" : "Ranger",
+		"ano" : 2017
+	},
+	{
+		"id" : 8,
+		"proprietario_id" : 4,
+		"marca" : "Chevrolet",
+		"modelo" : "Onix",
+		"ano" : 2024
+	},
+	{
+		"id" : 9,
+		"proprietario_id" : 1,
+		"marca" : "Asia Motors",
+		"modelo" : "Topic Carga 2.7 Diesel (furgão)",
+		"ano" : 2012
+	},
+	{
+		"id" : 10,
+		"proprietario_id" : 1,
+		"marca" : "Acura",
+		"modelo" : "Integra GS 1.8",
+		"ano" : 1222
+	},
+	{
+		"id" : 11,
+		"proprietario_id" : 4,
+		"marca" : "BMW",
+		"modelo" : "120iA Sport 2.0\/ActiveFlex 16V Aut.",
+		"ano" : 2019
+	},
+	{
+		"id" : 12,
+		"proprietario_id" : 4,
+		"marca" : "Citroën",
+		"modelo" : "C3 Attraction Pure Tech 1.2 Flex 12V Mec",
+		"ano" : 2010
+	}
+]}

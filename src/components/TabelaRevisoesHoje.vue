@@ -2,9 +2,14 @@
   <v-container rounded="lg">
     <v-card flat class="border rounded-lg sm-ma-4">
       <!--topo da tabela-->
-      <div class="d-flex justify-space-between border bg-cyan-darken-4">
+      <div class="d-flex justify-space-between border bg-cyan-darken-3">
         <!-- Título com o nome do veículo -->
         <v-card-title class="text-center ma-2">Revisões para hoje</v-card-title>
+        <!-- Botão adicionar revisão -->
+        <CadastrarRevisao
+          :veiculo_id="idVeiculo"
+          @revisao-adicionada="carregarRevisoes"
+        />
       </div>
       <div v-if="revisoes.length === 0" class="text-center">
         Não há revisões para hoje.

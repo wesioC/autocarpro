@@ -15,7 +15,8 @@
           <Relatorio3 />
         </v-row>
       </v-container>
-      <Clientes />
+      <TabelaRevisoesHoje />
+      <!-- <Clientes /> -->
       <Card />
     </v-main>
   </v-app>

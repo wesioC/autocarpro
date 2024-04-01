@@ -1,0 +1,33 @@
+{
+"proprietarios": [
+	{
+		"id" : 1,
+		"nome" : "Pedro dos Santos",
+		"cpf" : "123.456.789-10",
+		"sexo" : "Feminino"
+	},
+	{
+		"id" : 2,
+		"nome" : "Carlos Petros",
+		"cpf" : "232.489.789-10",
+		"sexo" : "Feminino"
+	},
+	{
+		"id" : 3,
+		"nome" : "Jonh James",
+		"cpf" : "674.345.376-10",
+		"sexo" : "Masculino"
+	},
+	{
+		"id" : 4,
+		"nome" : "Laryssa Barbosa",
+		"cpf" : "987.654.321-00",
+		"sexo" : "Feminino"
+	},
+	{
+		"id" : 15,
+		"nome" : "Luan de Bucho",
+		"cpf" : "121.212.121-22",
+		"sexo" : "Masculino"
+	}
+]}

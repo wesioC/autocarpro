@@ -1,5 +1,6 @@
 <template>
     <Clientes />
+    <Card />
   </template>
   
   <script>

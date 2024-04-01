@@ -1,0 +1,122 @@
+{
+"revisoes": [
+	{
+		"id" : 1,
+		"veiculo_id" : 1,
+		"data_revisao" : "2023-01-15",
+		"descricao" : "Troca de óleo e filtro",
+		"valor" : 150.00
+	},
+	{
+		"id" : 2,
+		"veiculo_id" : 1,
+		"data_revisao" : "2023-06-20",
+		"descricao" : "Revisão geral",
+		"valor" : 300.00
+	},
+	{
+		"id" : 3,
+		"veiculo_id" : 2,
+		"data_revisao" : "2023-03-10",
+		"descricao" : "Troca de pneus",
+		"valor" : 500.00
+	},
+	{
+		"id" : 4,
+		"veiculo_id" : 2,
+		"data_revisao" : "2023-09-05",
+		"descricao" : "Reparo na suspensão",
+		"valor" : 400.00
+	},
+	{
+		"id" : 5,
+		"veiculo_id" : 3,
+		"data_revisao" : "2023-02-15",
+		"descricao" : "Troca de fluidos",
+		"valor" : 200.00
+	},
+	{
+		"id" : 6,
+		"veiculo_id" : 3,
+		"data_revisao" : "2023-07-25",
+		"descricao" : "Substituição de freios",
+		"valor" : 350.00
+	},
+	{
+		"id" : 7,
+		"veiculo_id" : 4,
+		"data_revisao" : "2023-04-15",
+		"descricao" : "Revisão anual",
+		"valor" : 250.00
+	},
+	{
+		"id" : 8,
+		"veiculo_id" : 4,
+		"data_revisao" : "2023-10-30",
+		"descricao" : "Troca de filtros",
+		"valor" : 100.00
+	},
+	{
+		"id" : 9,
+		"veiculo_id" : 10,
+		"data_revisao" : "2024-02-24",
+		"descricao" : "Troca de Buchas",
+		"valor" : 340.88
+	},
+	{
+		"id" : 10,
+		"veiculo_id" : 5,
+		"data_revisao" : "2024-02-25",
+		"descricao" : "Troca de rolamento",
+		"valor" : 89.78
+	},
+	{
+		"id" : 11,
+		"veiculo_id" : 5,
+		"data_revisao" : "2024-03-09",
+		"descricao" : "Troca de amortecedor",
+		"valor" : 634.43
+	},
+	{
+		"id" : 12,
+		"veiculo_id" : 11,
+		"data_revisao" : "2024-02-27",
+		"descricao" : "Troca de coreia dentada",
+		"valor" : 123.67
+	},
+	{
+		"id" : 13,
+		"veiculo_id" : 8,
+		"data_revisao" : "2024-03-27",
+		"descricao" : "corrente dentada 2",
+		"valor" : 666.99
+	},
+	{
+		"id" : 14,
+		"veiculo_id" : null,
+		"data_revisao" : "2024-02-25",
+		"descricao" : "Cabo do acelerador",
+		"valor" : 89.34
+	},
+	{
+		"id" : 15,
+		"veiculo_id" : 12,
+		"data_revisao" : "2024-02-08",
+		"descricao" : "cabo do acelerador",
+		"valor" : 122.87
+	},
+	{
+		"id" : 16,
+		"veiculo_id" : 12,
+		"data_revisao" : "2024-02-24",
+		"descricao" : "aa",
+		"valor" : 1212.99
+	},
+	{
+		"id" : 17,
+		"veiculo_id" : 1,
+		"data_revisao" : "2024-02-27",
+		"descricao" : "Limpeza das velas",
+		"valor" : 89.45
+	}
+]}
